@@ -55,6 +55,8 @@ Make sure to update the following configuration values in the .env or config.php
 -Database: DB_HOST, DB_NAME, DB_USER, DB_PASS
 -Email Settings (optional): SMTP configuration for order confirmation emails
 -Payment Gateway (optional): API keys for payment processing
+-DB donwload from here folder call DB
+
 
 ## Usage
 
