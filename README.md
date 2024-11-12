@@ -52,27 +52,27 @@ Welcome to **HappyCart**! This is a PHP-based e-commerce application that provid
 
 Make sure to update the following configuration values in the .env or config.php:
 
--Database: DB_HOST, DB_NAME, DB_USER, DB_PASS
--Email Settings (optional): SMTP configuration for order confirmation emails
--Payment Gateway (optional): API keys for payment processing
--DB donwload from here folder call DB
+- Database: DB_HOST, DB_NAME, DB_USER, DB_PASS
+- Email Settings (optional): SMTP configuration for order confirmation emails
+- Payment Gateway (optional): API keys for payment processing
+- DB donwload from here folder call DB
 
 
 ## Usage
 
 ### Run the application:
 
--You can run the app using a local server like XAMPP, MAMP, or WAMP.
--Place the application files in the server’s htdocs or equivalent directory.
+- You can run the app using a local server like XAMPP, MAMP, or WAMP.
+- Place the application files in the server’s htdocs or equivalent directory.
 
 ### Access the application:
 
--Open a browser and navigate to http://localhost/happycart (or wherever your server hosts the app).
+- Open a browser and navigate to http://localhost/happycart (or wherever your server hosts the app).
 
 ### Admin Dashboard:
 
--Login to the admin area using the admin credentials.
--Customize products, manage users, and monitor orders from the dashboard.
+- Login to the admin area using the admin credentials.
+- Customize products, manage users, and monitor orders from the dashboard.
 
 ## Screenshots
 
